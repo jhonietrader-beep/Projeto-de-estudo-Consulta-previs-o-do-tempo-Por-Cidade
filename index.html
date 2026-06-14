@@ -1,0 +1,55 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Explora&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Pirata+One&family=Poiret+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>condiçoesmetereologicas.com.br </title>
+</head>
+<body> 
+    <div id="nav">
+         <nav>
+            <ul>
+             <li><a href="">HOME</a></li>
+             <li><a href="./pag1.html">SOBRE</a></li>
+             <li><a href="">CADASTRO</a></li>
+
+            </ul>  
+         </nav>    
+    </div>
+    <div class="header">
+        <header>
+          <h1>Cadastro de Usuários com Perfil Geográfico </h1>
+          <p>Insira os dados para consultar coordenadas da cidade e gerar o cadastro.</p>
+        </header>
+    </div> 
+    <div id="form-container">
+
+        <form>
+        <div class="campo">                                               
+            <label for="name">INSIRA SEU NOME</label>
+            <input id="name" placeholder=" NOME" type="text">
+            <div id="alertanome"></div>
+        </div>
+        <div class="campo">
+            <label for="profissao">INSIRA SUA PROFISSÂO</label>
+            <input id="profissao" placeholder=" PROFISSÂO" type="text">
+            <div id="alertaprofissao"></div>
+        </div>
+        <div class="campo">
+            <label for="cidade">INSIRA A CIDADE </label>
+            <input id="cidade" placeholder=" CIDADE" type="text">
+            <div id="alertacidade"></div>
+        </div>
+            <button id="submitbutton" type="button">ENVIAR DADOS
+
+            </button>
+              <div id="cards"></div>
+
+       </form>
+    </div>
+<script src="./script.js"></script>
+</body>
+</html>
