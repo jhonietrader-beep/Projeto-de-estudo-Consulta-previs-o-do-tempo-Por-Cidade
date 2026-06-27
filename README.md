@@ -50,10 +50,11 @@ tratamento de possíveis falhas durante as requisições.
 Objetivo do projeto
 
 Mais do que construir uma interface visual, este projeto teve como objetivo praticar conceitos fundamentais do desenvolvimento Front-End e compreender como diferentes tecnologias trabalham juntas para gerar uma aplicação funcional.
-👉 Acesse o projeto funcionando aqui:  
-https://jhonietrader-beep.github.io/Projeto-de-estudo-Consulta-previs-o-do-tempo-Por-Cidade/
 Este projeto representa meu nível atual de conhecimento e marca mais uma etapa da minha evolução como desenvolvedor.
 
 Ainda existe muito para aprender — e isso faz parte do processo.
 
 Obrigado por acompanhar minha evolução 🚀
+👉 Acesse o projeto funcionando aqui:  
+https://jhonietrader-beep.github.io/Projeto-de-estudo-Consulta-previs-o-do-tempo-Por-Cidade/
+
